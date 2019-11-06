@@ -1,5 +1,4 @@
-# SpaceExplorer-GlobalJoystick
-### Setup to have my SpaceExplorer behave as a joystick, globally.
+# SpaceExplorer, as a Global joystick
 
 It allow a 3dConnexion space mouse (in this case, a SpaceExplorer) to globally behave like a joystick. Replace your "$USER\AppData\Roaming\3Dconnexion\3DxWare\Cfg\Global.xml" file with this one. If you prefer to only allow it on specific app, copy the relevant device setup in $YourApp.xml file.
 
